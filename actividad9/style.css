@@ -1,6 +1,25 @@
 header {
-    background-color: aqua;
+    
+    text-align: center;
+    width: 100%;
 }
-.autor{
-    background-color: red;
+#datos{
+    
+    float: left;
+    width: 25%;
+}
+#parte1{
+    
+    float: right;
+    width: 75%;
+}
+#parte2{
+    
+    float: right;
+    width: 75%;
+}
+.columna{
+    
+    float: left;
+    width: 33%;
 }
