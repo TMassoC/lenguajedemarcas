@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-model href="tabla1.dtd"?> por ahora no importa-->
+
+<tabla>
+
+    <fundacion id="IMB  da a conocer el PC">
+        <fecha>
+            <dia>12</dia>
+            <mes>8</mes>
+            <año>1981</año>
+        </fecha>
+    </fundacion>
+    <fundacion id="Se funda google">
+        <fecha>
+            <dia>4</dia>
+            <mes>9</mes>
+            <año>1998</año>
+        </fecha>
+    </fundacion>
+    <fundacion id="Se funda facebook">
+        <fecha>
+            <dia>4</dia>
+            <mes>2</mes>
+            <año>2004</año>
+        </fecha>
+    </fundacion>
+
+</tabla>
