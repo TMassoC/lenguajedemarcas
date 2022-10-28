@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--<?xml-model href="tabla1.dtd"?> por ahora no importa-->
 <bandeja>
-    <email>
+    <mensaje>
         <remite>
             <nombre>Alfredo Reino</nombre>
             <email>president@whitehouse.gov</email>
@@ -15,5 +15,5 @@
             <parrafo>¿Hola qué tal?</parrafo>
             <parrafo>...</parrafo>
         </texto>
-    </email>
+    </mensaje>
 </bandeja>
