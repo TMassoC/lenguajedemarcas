@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="matricula">
+    <xs:complexType>
+      <xs:sequence>
+        <!-- hijos de matricula-->
+        <xs:element name="personal" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <!-- Secuencia de: dni, nombre, titulacion, curso academio, domicilios-->
+              <xs:element name="dni" type="xs:string"></xs:element>
+              <xs:element name="nombre" type="xs:string"></xs:element>
+              <xs:element name="titulacion" type="xs:string"></xs:element>
+              <xs:element name="curso_academico" type="xs:string"></xs:element>
+              <xs:element name="domicilios">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="domicilio" minOccurs="1" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="nombre" type="xs:string"></xs:element>
+                        </xs:sequence>
+                        <!-- Atributo -->
+                        <xs:attribute name="tipo" type="tipo"></xs:attribute>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="pago">
+          <xs:complexType>
+            <xs:sequence>
+              <!-- Secuencia tipo_matricula-->
+              <xs:element name="tipo_matricula" type="xs:string"></xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:simpleType name="tipo">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="familiar" />
+      <xs:enumeration value="habitual" />
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>
