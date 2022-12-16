@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="index.xsl" type="text/xsl"?>
-
 <?xml-model href="index.xsd"?>
 <facturas>
     <numero-factura atributo="999">
-
         <datos-propios>
             <empresa>Equipos Digiales S.L.</empresa>
             <dirección>
@@ -15,7 +13,6 @@
             <cif>Q-9876543</cif>
             <telefono>91.777.66.88</telefono>
             <fax>91.777.66.99</fax>
-            
         </datos-propios>
         <datos-pedido>
             <fecha>12-01-2005</fecha>
