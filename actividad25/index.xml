@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+
+<?xml-model href="index.xsd"?>
+<facturas>
+    <numero-factura atributo="999">
+
+        <datos-propios>
+            <empresa>Equipos Digiales S.L.</empresa>
+            <dirección>
+                <calle>Av. Valadolid</calle>
+                <provincia>Madrid</provincia>
+                <codigo-postal>28015</codigo-postal>
+            </dirección>
+            <cif>Q-9876543</cif>
+            <telefono>91.777.66.88</telefono>
+            <fax>91.777.66.99</fax>
+            
+        </datos-propios>
+        <datos-pedido>
+            <fecha>12-01-2005</fecha>
+            <pedido>731</pedido>
+            <pago>EFECTIVO</pago>
+        </datos-pedido>
+        <datos-cliente>
+            <numero-cliente>879</numero-cliente>
+            <nombre>Darío Bueno Gutiérrez</nombre>
+            <direccion-envio>
+                <calle>Av. Oporto</calle>
+                <numero>7</numero>
+                <piso>4</piso>
+                <puerta>d</puerta>
+                <poblacion>Madrid</poblacion>
+                <codigo-postal>28043</codigo-postal>
+                <provincia>Madrid</provincia>
+            </direccion-envio>
+        </datos-cliente>
+        <datos-factura>
+            <columna>
+                <referencia>MII93000F/8</referencia>
+                <descripcion>MICRO PENTIUM IV 3000MHZ FB800</descripcion>
+                <cantidad>1</cantidad>
+                <precio>230 eur.</precio>
+                <iva>16,0</iva>
+                <importe>266,80 eur.</importe>
+            </columna>
+            <columna>
+                <referencia>MB8QDIP4</referencia>
+                <descripcion>PLACA BASE QDI P4</descripcion>
+                <cantidad>1</cantidad>
+                <precio>180 eur.</precio>
+                <iva>16,0</iva>
+                <importe>208,80 eur.</importe>
+            </columna>
+            <columna>
+                <referencia>MEDD512M32</referencia>
+                <descripcion>DIMM DDR 512MB</descripcion>
+                <cantidad>2</cantidad>
+                <precio>40 eur.</precio>
+                <iva>16,0</iva>
+                <importe>92,80 eur.</importe>
+            </columna>
+            <columna>
+                <referencia>HD250GSA7</referencia>
+                <descripcion>DISCO DURO 250 GB S-ATA 7200</descripcion>
+                <cantidad>4</cantidad>
+                <precio>120 eur.</precio>
+                <iva>16,0</iva>
+                <importe>556,80 eur.</importe>
+            </columna>
+            <base-imponible>970,00 eur</base-imponible>
+            <porcentaje-iva>16,0</porcentaje-iva>
+            <cuota-iva>155,20 eur.</cuota-iva>
+            <total-factura>1125,20 eur</total-factura>
+        </datos-factura>
+    </numero-factura>
+</facturas>
