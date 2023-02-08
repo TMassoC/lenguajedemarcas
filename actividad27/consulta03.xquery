@@ -1,0 +1,1 @@
+doc("biblioteca.xml")/bib/libro[precio=65.95]
