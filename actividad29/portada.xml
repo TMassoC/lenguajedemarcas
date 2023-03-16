@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="portada.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:ue="http://www.elmundo.es/imasd/rss/">
+    <channel>
+        <title><![CDATA[Internacional // elmundo]]></title>
+        <link>https://www.elmundo.es</link>
+        <description><![CDATA[Internacional // elmundo]]></description>
+        <language>es</language>
+        <copyright><![CDATA[(c)  2023, Unidad Editorial, S.A.]]></copyright>
+        <pubDate>Thu, 16 Mar 2023 12:21:16 +0100</pubDate>
+        <lastBuildDate>Thu, 16 Mar 2023 12:21:16 +0100</lastBuildDate>
+        <category><![CDATA[News & Politics]]></category>
+        <ttl>60</ttl>
+        <atom:link href="http://www.elmundo.es/rss/internacional.xml" rel="self"
+            type="application/rss+xml" />
+        <image>
+            <title><![CDATA[Internacional // elmundo]]></title>
+            <url>https://e00-elmundo.uecdn.es/imagen/canalima144.gif</url>
+            <link>https://www.elmundo.es</link>
+            <width>144</width>
+            <height>24</height>
+            <description><![CDATA[elmundo.es]]></description>
+        </image>
+        <item>
+            <title><![CDATA[Los grandes candidatos republicanos a 2024, en contra de la ayuda de Estados Unidos a Ucrania]]></title>
+            <description><![CDATA[Ron DeSantis rompe con los republicanos anti-Trump para alinearse con su rival, dejando claro que la guerra "no está entre los intereses nacionales vitales"&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/16/6411ea93fc6c833a7f8b459c.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[Pablo Pardo]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/16/6411ea93fc6c833a7f8b459c.html</link>
+            <category><![CDATA[Ucrania]]></category>
+            <category><![CDATA[Estados Unidos]]></category>
+            <category><![CDATA[Twitter]]></category>
+            <category><![CDATA[Partido republicano EEUU]]></category>
+            <category><![CDATA[Rusia]]></category>
+            <category><![CDATA[Elon Musk]]></category>
+            <category><![CDATA[Vladimir Putin]]></category>
+            <category><![CDATA[Donald Trump]]></category>
+            <category><![CDATA[Coronavirus]]></category>
+            <category><![CDATA[Joe Biden]]></category>
+            <category><![CDATA[OTAN]]></category>
+            <category><![CDATA[Guerra Ucrania Rusia]]></category>
+            <category><![CDATA[Artículos Pablo Pardo]]></category>
+            <media:description type="html"><![CDATA[Ron DeSantis rompe con los republicanos anti-Trump para alinearse con su rival, dejando claro que la guerra "no está entre los intereses nacionales vitales"]]></media:description>
+            <media:title type="html"><![CDATA[GUERRA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789005387443.jpg"
+                medium="image" width="3072" height="2048" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789005387443_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/16/6411ea93fc6c833a7f8b459c.html</guid>
+            <pubDate>Thu, 16 Mar 2023 02:30:44 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El último pulso político de Imran Khan]]></title>
+            <description><![CDATA[El ex primer ministro se atrinchera en su residencia entre disturbios para impedir su detención. Denuncia una operación para apartarle de la carrera electoral&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/16/6411f6cbfc6c8324358b45ab.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[ROSA MENESES]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/16/6411f6cbfc6c8324358b45ab.html</link>
+            <category><![CDATA[Pakistán]]></category>
+            <category><![CDATA[Mundo]]></category>
+            <category><![CDATA[Artículos Rosa Meneses]]></category>
+            <media:description type="html"><![CDATA[El ex primer ministro se atrinchera en su residencia entre disturbios para impedir su detención. Denuncia una operación para apartarle de la carrera electoral]]></media:description>
+            <media:title type="html"><![CDATA[PAKISTÁN]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788992022120.jpg"
+                medium="image" width="3072" height="2043" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788992022120_150x0.jpg"
+                width="150" height="99" />
+            <guid>https://www.elmundo.es/internacional/2023/03/16/6411f6cbfc6c8324358b45ab.html</guid>
+            <pubDate>Thu, 16 Mar 2023 00:30:24 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La maldición del cólera cae sobre Malawi: más de 1.600 muertos en menos de un año]]></title>
+            <description><![CDATA[La falta de infraestructuras básicas de Sanidad y el impacto del cambio climático explican la rápida propagación de la enfermedad&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/16/6410845a21efa090208b45ce.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[MARÍA CRESPO]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/16/6410845a21efa090208b45ce.html</link>
+            <category><![CDATA[Coronavirus]]></category>
+            <category><![CDATA[África]]></category>
+            <category><![CDATA[ONU]]></category>
+            <category><![CDATA[Covid 19]]></category>
+            <category><![CDATA[La mirada del corresponsal]]></category>
+            <category><![CDATA[Artículos María Crespo]]></category>
+            <media:description type="html"><![CDATA[La falta de infraestructuras básicas de Sanidad y el impacto del cambio climático explican la rápida propagación de la enfermedad]]></media:description>
+            <media:title type="html"><![CDATA[LA MIRADA DEL CORRESPONSAL]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788042340590.jpg"
+                medium="image" width="3072" height="2047" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788042340590_150x0.jpg"
+                width="150" height="99" />
+            <guid>https://www.elmundo.es/internacional/2023/03/16/6410845a21efa090208b45ce.html</guid>
+            <pubDate>Thu, 16 Mar 2023 00:30:26 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El Benidorm hambriento de Corea del Norte]]></title>
+            <description><![CDATA[Kim Jong-un aspiraba a replicar en su país los balnearios del Levante, pero la pandemia ha convertido el Wongsan Beach Resort en un refugio para las personas sin hogar&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/16/6411d4fee4d4d8d9548b4586.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[Lucas de la Cal]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/16/6411d4fee4d4d8d9548b4586.html</link>
+            <category><![CDATA[Corea del Norte]]></category>
+            <category><![CDATA[ONU]]></category>
+            <category><![CDATA[China]]></category>
+            <category><![CDATA[Corea del Sur]]></category>
+            <category><![CDATA[Coronavirus]]></category>
+            <category><![CDATA[Covid 19]]></category>
+            <category><![CDATA[Asia]]></category>
+            <category><![CDATA[Kim Jong Un]]></category>
+            <category><![CDATA[Artículos Lucas de la Cal]]></category>
+            <media:description type="html"><![CDATA[Kim Jong-un aspiraba a replicar en su país los balnearios del Levante, pero la pandemia ha convertido el Wongsan Beach Resort en un refugio para las personas sin hogar]]></media:description>
+            <media:title type="html"><![CDATA[PATIO GLOBAL]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788909572428.jpg"
+                medium="image" width="3072" height="2047" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788909572428_150x0.jpg"
+                width="150" height="99" />
+            <guid>https://www.elmundo.es/internacional/2023/03/16/6411d4fee4d4d8d9548b4586.html</guid>
+            <pubDate>Thu, 16 Mar 2023 00:30:27 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Un caza ruso colisiona con un dron estadounidense sobre el Mar Negro]]></title>
+            <description><![CDATA[EEUU dice que un "Reaper" se ha estrellado en el Mar Negro tras ser interceptado por un Su-27 ruso&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/14/6410ab3cfdddff6b128b45dc.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[XAVIER COLÁS, PABLO SCARPELLINI]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/14/6410ab3cfdddff6b128b45dc.html</link>
+            <category><![CDATA[Estados Unidos]]></category>
+            <category><![CDATA[Joe Biden]]></category>
+            <category><![CDATA[Rusia]]></category>
+            <category><![CDATA[Europa]]></category>
+            <category><![CDATA[Mundo]]></category>
+            <category><![CDATA[Guerra Ucrania Rusia]]></category>
+            <category><![CDATA[Especial Guerra de Ucrania]]></category>
+            <media:description type="html"><![CDATA[EEUU dice que un "Reaper" se ha estrellado en el Mar Negro tras ser interceptado por un Su-27 ruso]]></media:description>
+            <media:title type="html"><![CDATA[GUERRA EN EUROPA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788165153106.jpg"
+                medium="image" width="3072" height="2044" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788165153106_150x0.jpg"
+                width="150" height="99" />
+            <guid>https://www.elmundo.es/internacional/2023/03/14/6410ab3cfdddff6b128b45dc.html</guid>
+            <pubDate>Tue, 14 Mar 2023 20:57:36 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La catástrofe ecológica en Ucrania, otro legado de la invasión rusa]]></title>
+            <description><![CDATA[La desaparición de reservas como el embalse de Oskil son ejemplo de la devastación que está generando la guerra&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/14/64107934fc6c83bb218b459b.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[JAVIER ESPINOSA]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/14/64107934fc6c83bb218b459b.html</link>
+            <category><![CDATA[Ucrania]]></category>
+            <category><![CDATA[Rusia]]></category>
+            <category><![CDATA[ONU]]></category>
+            <category><![CDATA[Guerra Ucrania Rusia]]></category>
+            <category><![CDATA[Artículos Javier Espinosa]]></category>
+            <category><![CDATA[Especial Guerra de Ucrania]]></category>
+            <media:description type="html"><![CDATA[La desaparición de reservas como el embalse de Oskil son ejemplo de la devastación que está generando la guerra]]></media:description>
+            <media:title type="html"><![CDATA[GUERRA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788014945944.jpg"
+                medium="image" width="3000" height="2002" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788014945944_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/14/64107934fc6c83bb218b459b.html</guid>
+            <pubDate>Wed, 15 Mar 2023 21:00:25 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taiwan pierde otro amigo oficial: Honduras establecerá relaciones diplomáticas con China]]></title>
+            <description><![CDATA[La presidenta socialista Xiomara Castro rompe con 81 años de lazos diplomáticos con la isla&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/15/64117c7221efa0c6598b45be.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[LUCAS DE LA CAL]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/15/64117c7221efa0c6598b45be.html</link>
+            <category><![CDATA[Artículos Lucas de la Cal]]></category>
+            <media:description type="html"><![CDATA[La presidenta socialista Xiomara Castro rompe con 81 años de lazos diplomáticos con la isla]]></media:description>
+            <media:title type="html"><![CDATA[ASIA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788675137372.jpg"
+                medium="image" width="3072" height="2111" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788675137372_150x0.jpg"
+                width="150" height="103" />
+            <guid>https://www.elmundo.es/internacional/2023/03/15/64117c7221efa0c6598b45be.html</guid>
+            <pubDate>Wed, 15 Mar 2023 09:06:19 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Argentina y Ecuador, al borde de la ruptura diplomática por una ex ministra de Rafael Correa condenada por corrupción]]></title>
+            <description><![CDATA[Los respectivos embajadores han sido declarados 'persona non grata'&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/15/6411fe70fc6c8301358b459f.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[SEBASTIÁN FEST]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/15/6411fe70fc6c8301358b459f.html</link>
+            <media:description type="html"><![CDATA[Los respectivos embajadores han sido declarados 'persona non grata']]></media:description>
+            <media:title type="html"><![CDATA[AMÉRICA LATINA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789009387256.jpg"
+                medium="image" width="3072" height="2048" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789009387256_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/15/6411fe70fc6c8301358b459f.html</guid>
+            <pubDate>Wed, 15 Mar 2023 18:27:09 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La lucha para librarse de los 150 hipopótamos de Colombia, la última herencia del narco Pablo Escobar]]></title>
+            <description><![CDATA[Tras multiplicarse más rápido que en ningún otro lugar del planeta, el país trata de trasladarlos ahora a reservas de México e India&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/14/641029b6fdddff9d218b4595.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[SALUD HERNÁNDEZ-MORA]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/14/641029b6fdddff9d218b4595.html</link>
+            <media:description type="html"><![CDATA[Tras multiplicarse más rápido que en ningún otro lugar del planeta, el país trata de trasladarlos ahora a reservas de México e India]]></media:description>
+            <media:title type="html"><![CDATA[COLOMBIA]]></media:title>
+            <guid>https://www.elmundo.es/internacional/2023/03/14/641029b6fdddff9d218b4595.html</guid>
+            <pubDate>Tue, 14 Mar 2023 15:42:37 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cumbre histórica entre Japón y Corea del Sur para cerrar las heridas de la guerra: "Abrimos un nuevo capítulo"]]></title>
+            <description><![CDATA[Yoon y Kishida rompen una disputa comercial que sus países arrastraban desde hace años&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/16/6412f88121efa08d198b45e0.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[LUCAS DELA CAL]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/16/6412f88121efa08d198b45e0.html</link>
+            <category><![CDATA[Japón]]></category>
+            <category><![CDATA[Corea del Sur]]></category>
+            <category><![CDATA[Corea del Norte]]></category>
+            <category><![CDATA[China]]></category>
+            <category><![CDATA[Estados Unidos]]></category>
+            <category><![CDATA[Artículos Lucas de la Cal]]></category>
+            <media:description type="html"><![CDATA[Yoon y Kishida rompen una disputa comercial que sus países arrastraban desde hace años]]></media:description>
+            <media:title type="html"><![CDATA[ASIA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789652812492.jpg"
+                medium="image" width="3000" height="2000" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789652812492_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/16/6412f88121efa08d198b45e0.html</guid>
+            <pubDate>Thu, 16 Mar 2023 12:16:43 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La huelga general por el accidente de trenes con 57 muertos paraliza Grecia]]></title>
+            <description><![CDATA[La operadora Hellenic Train indemnizará a cada familia con un "pago adelantado" de 42.000 euros&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/16/6412cb71fdddff708c8b45c5.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[EFE]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/16/6412cb71fdddff708c8b45c5.html</link>
+            <category><![CDATA[internacional]]></category>
+            <category><![CDATA[Grecia]]></category>
+            <media:description type="html"><![CDATA[La operadora Hellenic Train indemnizará a cada familia con un "pago adelantado" de 42.000 euros]]></media:description>
+            <media:title type="html"><![CDATA[EUROPA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789556828730.jpg"
+                medium="image" width="3072" height="2044" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789556828730_150x0.jpg"
+                width="150" height="99" />
+            <guid>https://www.elmundo.es/internacional/2023/03/16/6412cb71fdddff708c8b45c5.html</guid>
+            <pubDate>Thu, 16 Mar 2023 09:37:56 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unas 2,5 toneladas de uranio desaparecen de instalaciones nucleares en Libia]]></title>
+            <description><![CDATA[El director general de la OIEA dijo que "10 contenedores con uranio natural no estaban presentes donde habían sido declarados por las autoridades"&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/16/6412d102e4d4d874388b4578.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/16/6412d102e4d4d874388b4578.html</link>
+            <category><![CDATA[internacional]]></category>
+            <category><![CDATA[Libia]]></category>
+            <category><![CDATA[Energía Nuclear]]></category>
+            <media:description type="html"><![CDATA[El director general de la OIEA dijo que "10 contenedores con uranio natural no estaban presentes donde habían sido declarados por las autoridades"]]></media:description>
+            <media:title type="html"><![CDATA[ENERGÍA ATÓMICA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789551351877.jpg"
+                medium="image" width="3072" height="2048" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789551351877_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/16/6412d102e4d4d874388b4578.html</guid>
+            <pubDate>Thu, 16 Mar 2023 09:29:24 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Derriban en Ucrania un dron de fabricación china modernizado y armado]]></title>
+            <description><![CDATA[Soldados ucranianos indican que volaba a muy baja altura cuando fue localizado, que fue derribado con armas automáticas, y que el artefacto había sido adaptado para llevar una bomba&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/16/6412cc99e4d4d874388b4571.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[EFE]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/16/6412cc99e4d4d874388b4571.html</link>
+            <category><![CDATA[Ucrania]]></category>
+            <category><![CDATA[Rusia]]></category>
+            <category><![CDATA[Guerra Ucrania Rusia]]></category>
+            <category><![CDATA[internacional]]></category>
+            <media:description type="html"><![CDATA[Soldados ucranianos indican que volaba a muy baja altura cuando fue localizado, que fue derribado con armas automáticas, y que el artefacto había sido adaptado para llevar una bomba]]></media:description>
+            <media:title type="html"><![CDATA[GUERRA DE UCRANIA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789535281967.jpg"
+                medium="image" width="3072" height="2048" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789535281967_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/16/6412cc99e4d4d874388b4571.html</guid>
+            <pubDate>Thu, 16 Mar 2023 09:00:35 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La producción mundial de cocaína se dispara hasta máximos históricos]]></title>
+            <description><![CDATA[Esa producción es de la máxima pureza, por lo que la cifra que llega al mercado es mucho mayor al mezclar los narcos la droga con otras sustancias&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/16/6412c59efc6c83da3a8b4576.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[EFE]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/16/6412c59efc6c83da3a8b4576.html</link>
+            <category><![CDATA[Colombia]]></category>
+            <category><![CDATA[Narcotráfico]]></category>
+            <category><![CDATA[Drogas]]></category>
+            <category><![CDATA[internacional]]></category>
+            <media:description type="html"><![CDATA[Esa producción es de la máxima pureza, por lo que la cifra que llega al mercado es mucho mayor al mezclar los narcos la droga con otras sustancias]]></media:description>
+            <media:title type="html"><![CDATA[DROGAS]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789522855932.jpg"
+                medium="image" width="3072" height="2716" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789522855932_150x0.jpg"
+                width="150" height="132" />
+            <guid>https://www.elmundo.es/internacional/2023/03/16/6412c59efc6c83da3a8b4576.html</guid>
+            <pubDate>Thu, 16 Mar 2023 08:42:45 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Corea del Norte dispara un misil balístico intercontinental]]></title>
+            <description><![CDATA[El lanzamiento se ha producido horas antes de que los gobernantes de Corea del Sur y Japón se reúnan en Tokio&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/16/64127f10e4d4d89a308b4576.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/16/64127f10e4d4d89a308b4576.html</link>
+            <category><![CDATA[Corea del Norte]]></category>
+            <category><![CDATA[Corea del Sur]]></category>
+            <category><![CDATA[Japón]]></category>
+            <media:description type="html"><![CDATA[El lanzamiento se ha producido horas antes de que los gobernantes de Corea del Sur y Japón se reúnan en Tokio]]></media:description>
+            <media:title type="html"><![CDATA[ASIA|Según Seúl]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789337082291.jpg"
+                medium="image" width="3072" height="2048" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789337082291_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/16/64127f10e4d4d89a308b4576.html</guid>
+            <pubDate>Thu, 16 Mar 2023 06:36:11 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tailandia propone una amnistía de armas no registradas a raíz de la matanza en la guardería]]></title>
+            <description><![CDATA[Un expolicía expulsado por asuntos de drogas mató a 36 personas, entre ellas 24 niños de cinco años o menos&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/16/64129ee521efa03b2d8b456d.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[EFE]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/16/64129ee521efa03b2d8b456d.html</link>
+            <category><![CDATA[Tailandia]]></category>
+            <category><![CDATA[arma]]></category>
+            <media:description type="html"><![CDATA[Un expolicía expulsado por asuntos de drogas mató a 36 personas, entre ellas 24 niños de cinco años o menos]]></media:description>
+            <media:title type="html"><![CDATA[ASIA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789422620874.jpg"
+                medium="image" width="1024" height="712" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789422620874_150x0.jpg"
+                width="150" height="104" />
+            <guid>https://www.elmundo.es/internacional/2023/03/16/64129ee521efa03b2d8b456d.html</guid>
+            <pubDate>Thu, 16 Mar 2023 05:52:56 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alerta de tsunami por un terremoto de magnitud 7,0 en las aguas del norte de Nueva Zelanda]]></title>
+            <description><![CDATA[El temblor ocurrió a 980 kilómetros de Ohonua, en Tonga, y 998 kilómetros de la capital de ese país insular, Nukualofa&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/16/6412791ce4d4d8780c8b45bb.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[EFE]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/16/6412791ce4d4d8780c8b45bb.html</link>
+            <category><![CDATA[Nueva Zelanda]]></category>
+            <category><![CDATA[Oceanía]]></category>
+            <category><![CDATA[Terremotos]]></category>
+            <media:description type="html"><![CDATA[El temblor ocurrió a 980 kilómetros de Ohonua, en Tonga, y 998 kilómetros de la capital de ese país insular, Nukualofa]]></media:description>
+            <media:title type="html"><![CDATA[OCEANÍA|Alerta de tsunami]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789331615295.jpg"
+                medium="image" width="754" height="518" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/16/16789331615295_150x0.jpg"
+                width="150" height="103" />
+            <guid>https://www.elmundo.es/internacional/2023/03/16/6412791ce4d4d8780c8b45bb.html</guid>
+            <pubDate>Thu, 16 Mar 2023 03:20:41 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El presidente Herzog presenta un plan judicial para resolver la crisis en Israel]]></title>
+            <description><![CDATA[El plan del presidente israelí reduce el poder del Supremo pero garantiza su plena independencia. El Gobierno lo rechaza asegurando que no garantiza "el equilibrio necesario entre las autoridades del país"&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/15/641224d8fdddff0c038b457d.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[SAL EMERGUI]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/15/641224d8fdddff0c038b457d.html</link>
+            <category><![CDATA[Israel]]></category>
+            <category><![CDATA[Marcha 8M]]></category>
+            <category><![CDATA[Tribunal Supremo]]></category>
+            <category><![CDATA[Alemania]]></category>
+            <category><![CDATA[Irán]]></category>
+            <category><![CDATA[Justicia]]></category>
+            <media:description type="html"><![CDATA[El plan del presidente israelí reduce el poder del Supremo pero garantiza su plena independencia. El Gobierno lo rechaza asegurando que no garantiza "el equilibrio necesario entre las autoridades del país"]]></media:description>
+            <media:title type="html"><![CDATA[ORIENTE PRÓXIMO]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789109390497.jpg"
+                medium="image" width="3072" height="2048" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789109390497_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/15/641224d8fdddff0c038b457d.html</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:44 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putin alarga su guerra esperando que Occidente se canse]]></title>
+            <description><![CDATA[Moscú está más pendiente del desistimiento de Washington y Europa que del avance de tropas&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/15/641201d6fc6c8397538b4570.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[Xavier Colás]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/15/641201d6fc6c8397538b4570.html</link>
+            <category><![CDATA[Rusia]]></category>
+            <category><![CDATA[Estados Unidos]]></category>
+            <category><![CDATA[Europa]]></category>
+            <category><![CDATA[Donald Trump]]></category>
+            <category><![CDATA[Vladimir Putin]]></category>
+            <category><![CDATA[Ucrania]]></category>
+            <category><![CDATA[Viktor Orban]]></category>
+            <category><![CDATA[Giorgia Meloni]]></category>
+            <category><![CDATA[Silvio Berlusconi]]></category>
+            <category><![CDATA[Matteo Salvini]]></category>
+            <category><![CDATA[Volodímir Zelenski]]></category>
+            <category><![CDATA[Guerra Ucrania Rusia]]></category>
+            <media:description type="html"><![CDATA[Moscú está más pendiente del desistimiento de Washington y Europa que del avance de tropas]]></media:description>
+            <media:title type="html"><![CDATA[GUERRA EN EUROPA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789017575385.jpg"
+                medium="image" width="3072" height="2018" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16789017575385_150x0.jpg"
+                width="150" height="98" />
+            <guid>https://www.elmundo.es/internacional/2023/03/15/641201d6fc6c8397538b4570.html</guid>
+            <pubDate>Wed, 15 Mar 2023 22:37:34 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El secuestro de cuatro estadounidenses genera una grave crisis diplomática con México]]></title>
+            <description><![CDATA[El Gobierno de AMLO se planta ante los republicanos que piden una intervención militar para combatir al narcotráfico&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/15/6410b09c21efa0be328b45ae.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[Pablo Sánchez Olmos]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/15/6410b09c21efa0be328b45ae.html</link>
+            <category><![CDATA[Estados Unidos]]></category>
+            <category><![CDATA[Andrés Manuel López Obrador]]></category>
+            <category><![CDATA[Partido republicano EEUU]]></category>
+            <category><![CDATA[Joe Biden]]></category>
+            <category><![CDATA[Secuestros]]></category>
+            <category><![CDATA[México]]></category>
+            <category><![CDATA[América]]></category>
+            <media:description type="html"><![CDATA[El Gobierno de AMLO se planta ante los republicanos que piden una intervención militar para combatir al narcotráfico]]></media:description>
+            <media:title type="html"><![CDATA[AMÉRICA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788980935095.jpg"
+                medium="image" width="1150" height="830" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788980935095_150x0.jpg"
+                width="150" height="108" />
+            <guid>https://www.elmundo.es/internacional/2023/03/15/6410b09c21efa0be328b45ae.html</guid>
+            <pubDate>Wed, 15 Mar 2023 17:45:33 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Al menos 11 muertos tras una explosión en una mina en Colombia]]></title>
+            <description><![CDATA[Otros 10 mineros permanecen atrapados a 900 metros de profundidad&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/15/6411c3c9fdddff42018b45ad.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/15/6411c3c9fdddff42018b45ad.html</link>
+            <category><![CDATA[Colombia]]></category>
+            <media:description type="html"><![CDATA[Otros 10 mineros permanecen atrapados a 900 metros de profundidad]]></media:description>
+            <media:title type="html"><![CDATA[AMÉRICA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788857599392.jpg"
+                medium="image" width="3072" height="2304" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788857599392_150x0.jpg"
+                width="150" height="112" />
+            <guid>https://www.elmundo.es/internacional/2023/03/15/6411c3c9fdddff42018b45ad.html</guid>
+            <pubDate>Wed, 15 Mar 2023 14:11:14 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Una cebra hiere de gravedad a su dueño tras morderle un brazo en una granja de Ohio]]></title>
+            <description><![CDATA[Las cebras no figuran como "animales salvajes peligrosos" en el estado de Ohio, lo que significa que cualquiera puede tenerlas como mascota&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/15/6411a496fdddff28898b4588.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/15/6411a496fdddff28898b4588.html</link>
+            <category><![CDATA[Estados Unidos]]></category>
+            <media:description type="html"><![CDATA[Las cebras no figuran como "animales salvajes peligrosos" en el estado de Ohio, lo que significa que cualquiera puede tenerlas como mascota]]></media:description>
+            <media:title type="html"><![CDATA[EEUU]]></media:title>
+            <guid>https://www.elmundo.es/internacional/2023/03/15/6411a496fdddff28898b4588.html</guid>
+            <pubDate>Wed, 15 Mar 2023 12:45:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kiev dice que EEUU ya ha sustituido el dron derribado en el Mar Negro]]></title>
+            <description><![CDATA[Estados Unidos tuvo que derribar el martes uno de sus drones en el Mar Negro tras registrar un incidente con un caza ruso en pleno vuelo, que Washington consideró un acto deliberado y que Moscú niega.&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/15/64119d4bfdddff368a8b45c5.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[EFE]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/15/64119d4bfdddff368a8b45c5.html</link>
+            <category><![CDATA[Ucrania]]></category>
+            <category><![CDATA[Guerra Ucrania Rusia]]></category>
+            <media:description type="html"><![CDATA[Estados Unidos tuvo que derribar el martes uno de sus drones en el Mar Negro tras registrar un incidente con un caza ruso en pleno vuelo, que Washington consideró un acto deliberado y que Moscú niega.]]></media:description>
+            <media:title type="html"><![CDATA[GUERRA EN UCRANIA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788759463099.jpg"
+                medium="image" width="3072" height="2050" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788759463099_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/15/64119d4bfdddff368a8b45c5.html</guid>
+            <pubDate>Wed, 15 Mar 2023 11:28:25 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China reinicia este miércoles la entrega de visados a extranjeros tras tres años de restricciones por la Covid-19]]></title>
+            <description><![CDATA[El Gobierno chino detalló que "los visados chinos entregados antes del 28 de marzo de 2020 siguen siendo válidos y serán reactivados"&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/15/641177d821efa0c6368b45ce.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[EUROPA PRESS]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/15/641177d821efa0c6368b45ce.html</link>
+            <category><![CDATA[Coronavirus]]></category>
+            <category><![CDATA[China]]></category>
+            <category><![CDATA[Mundo]]></category>
+            <category><![CDATA[Covid 19]]></category>
+            <media:description type="html"><![CDATA[El Gobierno chino detalló que "los visados chinos entregados antes del 28 de marzo de 2020 siguen siendo válidos y serán reactivados"]]></media:description>
+            <media:title type="html"><![CDATA[PANDEMIA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788663069597.jpg"
+                medium="image" width="3072" height="2048" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788663069597_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/15/641177d821efa0c6368b45ce.html</guid>
+            <pubDate>Wed, 15 Mar 2023 08:46:40 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Choques entre la policía paquistaní y partidarios del ex primer ministro Imran Khan]]></title>
+            <description><![CDATA[El enfrentamiento se produce después de que la  policía tratara de detenerle por no comparecer en una corte para responder de cargos de corrupción&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/15/6411672be4d4d818758b4588.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/15/6411672be4d4d818758b4588.html</link>
+            <category><![CDATA[internacional]]></category>
+            <category><![CDATA[Pakistán]]></category>
+            <media:description type="html"><![CDATA[El enfrentamiento se produce después de que la  policía tratara de detenerle por no comparecer en una corte para responder de cargos de corrupción]]></media:description>
+            <media:title type="html"><![CDATA[PAKISTÁN]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788621551253.jpg"
+                medium="image" width="3000" height="2000" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788621551253_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/15/6411672be4d4d818758b4588.html</guid>
+            <pubDate>Wed, 15 Mar 2023 07:48:58 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El ciclón Freddy deja más de 200 muertos en Malaui y Mozambique]]></title>
+            <description><![CDATA[Cerca 59.000 personas se han visto afectadas por el ciclón y más de 19.000 quedaron desplazados tras la destrucción o inundación de sus casas&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/15/64116a3ffc6c8376128b45e0.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/15/64116a3ffc6c8376128b45e0.html</link>
+            <category><![CDATA[África]]></category>
+            <category><![CDATA[ciclón]]></category>
+            <category><![CDATA[internacional]]></category>
+            <media:description type="html"><![CDATA[Cerca 59.000 personas se han visto afectadas por el ciclón y más de 19.000 quedaron desplazados tras la destrucción o inundación de sus casas]]></media:description>
+            <media:title type="html"><![CDATA[ÁFRICA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788628731187.jpg"
+                medium="image" width="3072" height="2048" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788628731187_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/15/64116a3ffc6c8376128b45e0.html</guid>
+            <pubDate>Wed, 15 Mar 2023 07:48:54 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Estados Unidos presenta una protesta formal ante Rusia por el derribo del dron sobre el Mar Negro]]></title>
+            <description><![CDATA[Antonov declaró a la agencia estatal de noticias rusa RIA que para Rusia el incidente es "una provocación"&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/15/6411044cfc6c83bb218b45c1.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[PABLO PARDO]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/15/6411044cfc6c83bb218b45c1.html</link>
+            <category><![CDATA[Rusia]]></category>
+            <category><![CDATA[Estados Unidos]]></category>
+            <category><![CDATA[Joe Biden]]></category>
+            <category><![CDATA[Ucrania]]></category>
+            <category><![CDATA[Accidentes Aéreos]]></category>
+            <category><![CDATA[Guerra Ucrania Rusia]]></category>
+            <media:description type="html"><![CDATA[Antonov declaró a la agencia estatal de noticias rusa RIA que para Rusia el incidente es "una provocación"]]></media:description>
+            <media:title type="html"><![CDATA[GUERRA DE UCRANIA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788368714589.jpg"
+                medium="image" width="3072" height="2050" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788368714589_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/15/6411044cfc6c83bb218b45c1.html</guid>
+            <pubDate>Wed, 15 Mar 2023 07:33:47 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El temblor del presidente de la BBC ante el escándalo Lineker]]></title>
+            <description><![CDATA[Richard Sharp se encuentra en la cuerda floja tras su 'gol' en propia meta por la suspensión del popular presentador y su papel en un préstamo a Boris Johnson&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/15/64108f4221efa0451a8b45ac.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[Carlos Fresneda]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/15/64108f4221efa0451a8b45ac.html</link>
+            <category><![CDATA[Reino Unido]]></category>
+            <category><![CDATA[Boris Johnson]]></category>
+            <category><![CDATA[Rishi Sunak]]></category>
+            <category><![CDATA[Selección de Fútbol de Inglaterra]]></category>
+            <category><![CDATA[Europa]]></category>
+            <category><![CDATA[El Retrato]]></category>
+            <category><![CDATA[Artículos Carlos Fresneda]]></category>
+            <media:description type="html"><![CDATA[Richard Sharp se encuentra en la cuerda floja tras su 'gol' en propia meta por la suspensión del popular presentador y su papel en un préstamo a Boris Johnson]]></media:description>
+            <media:title type="html"><![CDATA[EL RETRATO]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788075164532.jpg"
+                medium="image" width="1893" height="1023" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788075164532_150x0.jpg"
+                width="150" height="81" />
+            <guid>https://www.elmundo.es/internacional/2023/03/15/64108f4221efa0451a8b45ac.html</guid>
+            <pubDate>Wed, 15 Mar 2023 01:15:11 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Una ex ministra de Correa condenada por corrupción huye a Venezuela y provoca un conflicto diplomático]]></title>
+            <description><![CDATA[María Duarte asegura que se fugó de la embajada de Argentina en Quito, donde se refugiaba, para no seguir siendo una "rehén política"&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/15/641109c021efa08d768b456d.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[DANIEL LOZANO]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/15/641109c021efa08d768b456d.html</link>
+            <category><![CDATA[Vladimir Putin]]></category>
+            <category><![CDATA[Ecuador]]></category>
+            <category><![CDATA[Venezuela]]></category>
+            <category><![CDATA[Rafael Correa]]></category>
+            <category><![CDATA[Nicolás Maduro]]></category>
+            <media:description type="html"><![CDATA[María Duarte asegura que se fugó de la embajada de Argentina en Quito, donde se refugiaba, para no seguir siendo una "rehén política"]]></media:description>
+            <media:title type="html"><![CDATA[ECUADOR-ARGENTINA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788380737024.jpg"
+                medium="image" width="1543" height="1028" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/15/16788380737024_150x0.jpg"
+                width="150" height="99" />
+            <guid>https://www.elmundo.es/internacional/2023/03/15/641109c021efa08d768b456d.html</guid>
+            <pubDate>Wed, 15 Mar 2023 00:58:26 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Las tropas rusas aprietan en la zona industrial de Bajmut y Ucrania insiste en la defensa de la localidad]]></title>
+            <description><![CDATA[Según un jefe militar checheno, Kiev ha enviado allí miles de reservistas&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/14/6410c610fdddff06a88b457d.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[EFE]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/14/6410c610fdddff06a88b457d.html</link>
+            <category><![CDATA[Ucrania]]></category>
+            <category><![CDATA[Rusia]]></category>
+            <category><![CDATA[Guerra Ucrania Rusia]]></category>
+            <category><![CDATA[Especial Guerra de Ucrania]]></category>
+            <media:description type="html"><![CDATA[Según un jefe militar checheno, Kiev ha enviado allí miles de reservistas]]></media:description>
+            <media:title type="html"><![CDATA[GUERRA EN UCRANIA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788199836796.jpg"
+                medium="image" width="3000" height="2000" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788199836796_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/14/6410c610fdddff06a88b457d.html</guid>
+            <pubDate>Tue, 14 Mar 2023 20:47:28 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suiza se replantea su neutralidad para entregar armas a Ucrania]]></title>
+            <description><![CDATA[El país estudia cambios legislativos mientras el lobby suizo de las armas se niega a quedarse fuera&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/14/640f650fe4d4d8b73b8b45b0.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[CARMEN VALERO]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/14/640f650fe4d4d8b73b8b45b0.html</link>
+            <category><![CDATA[Suiza]]></category>
+            <category><![CDATA[Ucrania]]></category>
+            <category><![CDATA[Alemania]]></category>
+            <category><![CDATA[OTAN]]></category>
+            <category><![CDATA[Europa]]></category>
+            <category><![CDATA[ONU]]></category>
+            <category><![CDATA[Finlandia]]></category>
+            <category><![CDATA[Berlín]]></category>
+            <category><![CDATA[Suecia]]></category>
+            <category><![CDATA[Unión Europea]]></category>
+            <category><![CDATA[Guerra Ucrania Rusia]]></category>
+            <category><![CDATA[Especial Guerra de Ucrania]]></category>
+            <media:description type="html"><![CDATA[El país estudia cambios legislativos mientras el lobby suizo de las armas se niega a quedarse fuera]]></media:description>
+            <media:title type="html"><![CDATA[GUERRA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787314773363.jpg"
+                medium="image" width="1546" height="1120" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787314773363_150x0.jpg"
+                width="150" height="108" />
+            <guid>https://www.elmundo.es/internacional/2023/03/14/640f650fe4d4d8b73b8b45b0.html</guid>
+            <pubDate>Tue, 14 Mar 2023 20:46:40 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dos niñas alemanas de 12 y 13 años confiesan haber matado a cuchilladas a otra de 12]]></title>
+            <description><![CDATA[Al tener menos de 14 años son inimputables penalmente por sus acciones en Alemania&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/14/641090ecfdddff6b128b45bd.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/14/641090ecfdddff6b128b45bd.html</link>
+            <category><![CDATA[Alemania]]></category>
+            <category><![CDATA[Sucesos]]></category>
+            <media:description type="html"><![CDATA[Al tener menos de 14 años son inimputables penalmente por sus acciones en Alemania]]></media:description>
+            <media:title type="html"><![CDATA[ALEMANIA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788072144951.jpg"
+                medium="image" width="1024" height="758" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16788072144951_150x0.jpg"
+                width="150" height="111" />
+            <guid>https://www.elmundo.es/internacional/2023/03/14/641090ecfdddff6b128b45bd.html</guid>
+            <pubDate>Tue, 14 Mar 2023 16:23:17 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nuevo récord: los cerezos florecen en Tokio diez días antes de lo habitual]]></title>
+            <description><![CDATA[Las flores de color rosa-blanca sólo han aparecido tan pronto en 2021 y 2020&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/14/64104bb521efa0594a8b457d.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/14/64104bb521efa0594a8b457d.html</link>
+            <category><![CDATA[Japón]]></category>
+            <media:description type="html"><![CDATA[Las flores de color rosa-blanca sólo han aparecido tan pronto en 2021 y 2020]]></media:description>
+            <media:title type="html"><![CDATA[INTERNACIONAL]]></media:title>
+            <guid>https://www.elmundo.es/internacional/2023/03/14/64104bb521efa0594a8b457d.html</guid>
+            <pubDate>Tue, 14 Mar 2023 11:26:01 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El ministro Pistorius se deshace del general de más alto rango del ejército alemán]]></title>
+            <description><![CDATA[El militar dijo que era posible que Rusia atacara más países. "Kaliningrado, el mar Báltico, la frontera finlandesa, Georgia, Moldavia... "&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/14/641046b2e4d4d894478b4594.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[CARMEN VALERO]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/14/641046b2e4d4d894478b4594.html</link>
+            <media:description type="html"><![CDATA[El militar dijo que era posible que Rusia atacara más países. "Kaliningrado, el mar Báltico, la frontera finlandesa, Georgia, Moldavia... "]]></media:description>
+            <media:title type="html"><![CDATA[ALEMÁN]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16787882158182.jpg"
+                medium="image" width="3072" height="2048" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16787882158182_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/14/641046b2e4d4d894478b4594.html</guid>
+            <pubDate>Tue, 14 Mar 2023 11:05:43 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China acusa a la alianza Aukus de "sabotear el sistema internacional de no proliferación nuclear"]]></title>
+            <description><![CDATA[La delegación del país asiático en la ONU dice que el acuerdo para dotar a Australia de submarinos nucleares "daña la estabilidad en la región"&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/14/64103b7dfc6c83c6638b45c8.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[LUCAS DE LA CAL]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/14/64103b7dfc6c83c6638b45c8.html</link>
+            <category><![CDATA[Estados Unidos]]></category>
+            <category><![CDATA[Australia]]></category>
+            <category><![CDATA[Xi Jinping]]></category>
+            <category><![CDATA[Arabia Saudí]]></category>
+            <category><![CDATA[Reino Unido]]></category>
+            <category><![CDATA[ONU]]></category>
+            <category><![CDATA[Joe Biden]]></category>
+            <category><![CDATA[submarino]]></category>
+            <category><![CDATA[Artículos Lucas de la Cal]]></category>
+            <media:description type="html"><![CDATA[La delegación del país asiático en la ONU dice que el acuerdo para dotar a Australia de submarinos nucleares "daña la estabilidad en la región"]]></media:description>
+            <media:title type="html"><![CDATA[ASIA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16787853594149.jpg"
+                medium="image" width="3072" height="2048" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16787853594149_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/14/64103b7dfc6c83c6638b45c8.html</guid>
+            <pubDate>Tue, 14 Mar 2023 10:18:04 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rescatan a una niña de 13 años secuestrada y encerrada durante 10 días en una caseta de jardín]]></title>
+            <description><![CDATA[La pequeña, de Texas, se encontraba en casa de su secuestrador, en Carolina del Norte&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/14/64102df7fdddff348e8b459b.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/14/64102df7fdddff348e8b459b.html</link>
+            <category><![CDATA[Sucesos]]></category>
+            <category><![CDATA[Estados Unidos]]></category>
+            <category><![CDATA[Secuestros]]></category>
+            <media:description type="html"><![CDATA[La pequeña, de Texas, se encontraba en casa de su secuestrador, en Carolina del Norte]]></media:description>
+            <media:title type="html"><![CDATA[ESTADOS UNIDOS]]></media:title>
+            <guid>https://www.elmundo.es/internacional/2023/03/14/64102df7fdddff348e8b459b.html</guid>
+            <pubDate>Tue, 14 Mar 2023 09:48:06 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La bella París, un estercolero]]></title>
+            <description><![CDATA[Tras siete días de huelga en la recogida de basuras, la capital francesa amanece con montañas de desperdicios por los que campan las ratas&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/14/640f379de4d4d83b398b4596.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[RAQUEL VILLAÉCIJA]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/14/640f379de4d4d83b398b4596.html</link>
+            <category><![CDATA[París]]></category>
+            <category><![CDATA[Francia]]></category>
+            <category><![CDATA[Emmanuel Macron]]></category>
+            <category><![CDATA[La mirada del corresponsal]]></category>
+            <category><![CDATA[Artículos Raquel Villaécija]]></category>
+            <media:description type="html"><![CDATA[Tras siete días de huelga en la recogida de basuras, la capital francesa amanece con montañas de desperdicios por los que campan las ratas]]></media:description>
+            <media:title type="html"><![CDATA[LA MIRADA DEL CORRESPONSAL]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787186349769.jpg"
+                medium="image" width="3072" height="2080" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787186349769_150x0.jpg"
+                width="150" height="101" />
+            <guid>https://www.elmundo.es/internacional/2023/03/14/640f379de4d4d83b398b4596.html</guid>
+            <pubDate>Tue, 14 Mar 2023 02:53:27 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Corea del Norte lanza dos misiles balísticos de corto alcance al mar de Japón]]></title>
+            <description><![CDATA[El lanzamiento coincide con el inicio de maniobras militares conjuntas entre EEUU y Corea del Sur&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/14/640fb85cfdddff29bb8b45d4.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[EFE]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/14/640fb85cfdddff29bb8b45d4.html</link>
+            <category><![CDATA[Japón]]></category>
+            <category><![CDATA[Corea del Norte]]></category>
+            <category><![CDATA[Corea del Sur]]></category>
+            <category><![CDATA[Estados Unidos]]></category>
+            <media:description type="html"><![CDATA[El lanzamiento coincide con el inicio de maniobras militares conjuntas entre EEUU y Corea del Sur]]></media:description>
+            <media:title type="html"><![CDATA[ASIA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16787516980520.jpg"
+                medium="image" width="2244" height="1452" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/14/16787516980520_150x0.jpg"
+                width="150" height="97" />
+            <guid>https://www.elmundo.es/internacional/2023/03/14/640fb85cfdddff29bb8b45d4.html</guid>
+            <pubDate>Tue, 14 Mar 2023 00:57:25 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La primavera empieza en febrero, con la agonía, el pavé y el barro de Flandes]]></title>
+            <description><![CDATA[Arranca la temporada de las clásicas en Bélgica&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/14/640f78b2fc6c83da7e8b4584.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[Pablo R. Suanzes]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/14/640f78b2fc6c83da7e8b4584.html</link>
+            <category><![CDATA[Bélgica]]></category>
+            <category><![CDATA[Europa]]></category>
+            <category><![CDATA[Artículos Pablo R. Suanzes]]></category>
+            <media:description type="html"><![CDATA[Arranca la temporada de las clásicas en Bélgica]]></media:description>
+            <media:title type="html"><![CDATA[PATIO GLOBAL]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787356024732.jpg"
+                medium="image" width="835" height="642" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787356024732_150x0.jpg"
+                width="150" height="115" />
+            <guid>https://www.elmundo.es/internacional/2023/03/14/640f78b2fc6c83da7e8b4584.html</guid>
+            <pubDate>Tue, 14 Mar 2023 00:06:58 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El submarino clase Virginia, la columna vertebral de la alianza Aukus]]></title>
+            <description><![CDATA[&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/13/640f7533fc6c8301208b45b8.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[Pablo Pardo, EL MUNDO GRÁFICOS]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/13/640f7533fc6c8301208b45b8.html</link>
+            <category><![CDATA[Gráficos]]></category>
+            <category><![CDATA[Reino Unido]]></category>
+            <category><![CDATA[Australia]]></category>
+            <category><![CDATA[Estados Unidos]]></category>
+            <category><![CDATA[Francia]]></category>
+            <category><![CDATA[Joe Biden]]></category>
+            <category><![CDATA[Rishi Sunak]]></category>
+            <category><![CDATA[Boris Johnson]]></category>
+            <category><![CDATA[Emmanuel Macron]]></category>
+            <category><![CDATA[China]]></category>
+            <category><![CDATA[Artículos Pablo Pardo]]></category>
+            <media:description type="html"><![CDATA[El 15 de septiembre de 2021 era un día grande en la residencia del embajador francés en Washington. Esa noche se celebraba una cena al más alto nivel para conmemorar 240 años de]]></media:description>
+            <media:title type="html"><![CDATA[DEFENSA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787394684505.jpg"
+                medium="image" width="3072" height="2119" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787394684505_150x0.jpg"
+                width="150" height="103" />
+            <guid>https://www.elmundo.es/internacional/2023/03/13/640f7533fc6c8301208b45b8.html</guid>
+            <pubDate>Mon, 13 Mar 2023 22:42:26 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Topos' contra los mercenarios de Wagner en Bajmut]]></title>
+            <description><![CDATA[Una red de posiciones subterráneas excavadas en el barro alrededor de la ciudad ucraniana ralentiza la temida ofensiva rusa de invierno, que hasta ahora ha fracasado en el resto del país&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/12/640cd0d8fc6c832a258b459d.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[JAVIER ESPINOSA]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/12/640cd0d8fc6c832a258b459d.html</link>
+            <category><![CDATA[Rusia]]></category>
+            <category><![CDATA[Ucrania]]></category>
+            <category><![CDATA[Artículos Javier Espinosa]]></category>
+            <category><![CDATA[Guerra Ucrania Rusia]]></category>
+            <category><![CDATA[Especial Guerra de Ucrania]]></category>
+            <media:description type="html"><![CDATA[Una red de posiciones subterráneas excavadas en el barro alrededor de la ciudad ucraniana ralentiza la temida ofensiva rusa de invierno, que hasta ahora ha fracasado en el resto del país]]></media:description>
+            <media:title type="html"><![CDATA[GUERRA EN UCRANIA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785627171704.jpg"
+                medium="image" width="3000" height="2003" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/11/16785627171704_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/12/640cd0d8fc6c832a258b459d.html</guid>
+            <pubDate>Mon, 13 Mar 2023 20:53:18 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La Corte Penal Internacional abrirá causas contra funcionarios rusos por crímenes de guerra en Ucrania]]></title>
+            <description><![CDATA[Según avanza The New York Times, estos casos se referirían al presunto secuestro de niños ucranianos y al bombardeo de infraestructuras civiles&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/13/640f7534fdddffa13f8b45ba.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/13/640f7534fdddffa13f8b45ba.html</link>
+            <category><![CDATA[Ucrania]]></category>
+            <category><![CDATA[Rusia]]></category>
+            <category><![CDATA[crimen de guerra]]></category>
+            <category><![CDATA[Guerra Ucrania Rusia]]></category>
+            <category><![CDATA[Especial Guerra de Ucrania]]></category>
+            <media:description type="html"><![CDATA[Según avanza The New York Times, estos casos se referirían al presunto secuestro de niños ucranianos y al bombardeo de infraestructuras civiles]]></media:description>
+            <media:title type="html"><![CDATA[INTERNACIONAL|Guerra en Ucrania]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787344545201.jpg"
+                medium="image" width="3072" height="2048" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787344545201_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/13/640f7534fdddffa13f8b45ba.html</guid>
+            <pubDate>Mon, 13 Mar 2023 20:52:16 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La delgada línea roja de la imparcialidad]]></title>
+            <description><![CDATA[&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/13/640f33e0fdddff94ba8b45a4.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[Charlotte Davies]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/13/640f33e0fdddff94ba8b45a4.html</link>
+            <category><![CDATA[Reino Unido]]></category>
+            <category><![CDATA[Europa]]></category>
+            <category><![CDATA[Redes Sociales]]></category>
+            <category><![CDATA[fútbol]]></category>
+            <category><![CDATA[Rishi Sunak]]></category>
+            <media:description type="html"><![CDATA[El asunto de <strong>Gary Lineker</strong> y la nueva Ley de Inmigración no es más que otro episodio del interminable drama de la BBC sobre la imparcialidad, o su intento de com]]></media:description>
+            <media:title type="html"><![CDATA[REINO UNIDO]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787180339104.jpg"
+                medium="image" width="3072" height="2049" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787180339104_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/13/640f33e0fdddff94ba8b45a4.html</guid>
+            <pubDate>Mon, 13 Mar 2023 19:17:07 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exoneran a un hombre de 57 años tras pasar casi 35 en una cárcel de Florida]]></title>
+            <description><![CDATA[Los investigadores hallaron que la identificación de Holmes por parte de un testigo ocular fue "probablemente errónea"&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/13/640f66cafc6c831a1c8b4577.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[EFE]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/13/640f66cafc6c831a1c8b4577.html</link>
+            <category><![CDATA[Justicia]]></category>
+            <category><![CDATA[internacional]]></category>
+            <media:description type="html"><![CDATA[Los investigadores hallaron que la identificación de Holmes por parte de un testigo ocular fue "probablemente errónea"]]></media:description>
+            <media:title type="html"><![CDATA[INTERNACIONAL]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787307297694.jpg"
+                medium="image" width="1500" height="845" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787307297694_150x0.jpg"
+                width="150" height="84" />
+            <guid>https://www.elmundo.es/internacional/2023/03/13/640f66cafc6c831a1c8b4577.html</guid>
+            <pubDate>Mon, 13 Mar 2023 19:10:32 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lineker llega a un acuerdo para volver a la BBC y seguir expresando su opinión en las redes]]></title>
+            <description><![CDATA[El conocido presentador calificó la nueva Ley de Inmigración, que negará el asilo a quienes crucen el Canal de la Mancha, como "cruel"&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/13/640efbbafc6c8322758b458c.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[CARLOS FRESNEDA]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/13/640efbbafc6c8322758b458c.html</link>
+            <category><![CDATA[Chima Ruiz]]></category>
+            <category><![CDATA[Luis Hernández]]></category>
+            <category><![CDATA[Fernando Ortiz]]></category>
+            <category><![CDATA[Miguel Herrera - MX]]></category>
+            <category><![CDATA[Cuauhtémoc Blanco]]></category>
+            <category><![CDATA[Nacho Ambriz]]></category>
+            <category><![CDATA[Eduardo Arce]]></category>
+            <category><![CDATA[Pavel Pardo]]></category>
+            <category><![CDATA[Francisco Palencia]]></category>
+            <category><![CDATA[Mauro Gerk]]></category>
+            <category><![CDATA[gobierno]]></category>
+            <category><![CDATA[acuerdo]]></category>
+            <category><![CDATA[Televisión]]></category>
+            <category><![CDATA[Artículos Carlos Fresneda]]></category>
+            <media:description type="html"><![CDATA[El conocido presentador calificó la nueva Ley de Inmigración, que negará el asilo a quienes crucen el Canal de la Mancha, como "cruel"]]></media:description>
+            <media:title type="html"><![CDATA[REINO UNIDO]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787035069435.jpg"
+                medium="image" width="3072" height="2048" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787035069435_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/13/640efbbafc6c8322758b458c.html</guid>
+            <pubDate>Mon, 13 Mar 2023 15:25:33 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cumbre trilateral para relanzar el pacto Aukus y proporcionar submarinos nucleares a Australia]]></title>
+            <description><![CDATA[Sunak sigue la estela de Boris Johnson y se encuentra en California con Biden y Albanese&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/13/640f2298fc6c83e0568b4597.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[CARLOS FRESNEDA]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/13/640f2298fc6c83e0568b4597.html</link>
+            <category><![CDATA[Australia]]></category>
+            <category><![CDATA[China]]></category>
+            <category><![CDATA[Estados Unidos]]></category>
+            <category><![CDATA[Reino Unido]]></category>
+            <category><![CDATA[Boris Johnson]]></category>
+            <category><![CDATA[Francia]]></category>
+            <category><![CDATA[Lituania]]></category>
+            <category><![CDATA[Defensa y Justicia]]></category>
+            <category><![CDATA[PIB]]></category>
+            <category><![CDATA[OTAN]]></category>
+            <category><![CDATA[París]]></category>
+            <category><![CDATA[Kylian Mbappé]]></category>
+            <category><![CDATA[India]]></category>
+            <category><![CDATA[Rusia]]></category>
+            <category><![CDATA[submarino]]></category>
+            <category><![CDATA[Mundo]]></category>
+            <category><![CDATA[Artículos Carlos Fresneda]]></category>
+            <media:description type="html"><![CDATA[Sunak sigue la estela de Boris Johnson y se encuentra en California con Biden y Albanese]]></media:description>
+            <media:title type="html"><![CDATA[DEFENSA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787134682873.jpg"
+                medium="image" width="3072" height="2048" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787134682873_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/13/640f2298fc6c83e0568b4597.html</guid>
+            <pubDate>Mon, 13 Mar 2023 14:18:22 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China concluye su Asamblea Nacional y ensalza su democracia "de alta calidad"]]></title>
+            <description><![CDATA[El evento político del año cierra con un reforzado Xi Jinping al frente de un tercer mandato&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/13/640f1691e4d4d83b398b4581.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[LUCAS DE LA CAL]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/13/640f1691e4d4d83b398b4581.html</link>
+            <category><![CDATA[China]]></category>
+            <category><![CDATA[Xi Jinping]]></category>
+            <category><![CDATA[Ucrania]]></category>
+            <category><![CDATA[Rusia]]></category>
+            <category><![CDATA[Arabia Saudí]]></category>
+            <category><![CDATA[Irán]]></category>
+            <category><![CDATA[Estados Unidos]]></category>
+            <category><![CDATA[Twitter]]></category>
+            <category><![CDATA[Wanda Nara - MX]]></category>
+            <category><![CDATA[democracia]]></category>
+            <category><![CDATA[teatro]]></category>
+            <category><![CDATA[Mundo]]></category>
+            <category><![CDATA[comunicación]]></category>
+            <category><![CDATA[Artículos Lucas de la Cal]]></category>
+            <media:description type="html"><![CDATA[El evento político del año cierra con un reforzado Xi Jinping al frente de un tercer mandato]]></media:description>
+            <media:title type="html"><![CDATA[ASIA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787109296659.jpg"
+                medium="image" width="3072" height="2043" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16787109296659_150x0.jpg"
+                width="150" height="99" />
+            <guid>https://www.elmundo.es/internacional/2023/03/13/640f1691e4d4d83b398b4581.html</guid>
+            <pubDate>Mon, 13 Mar 2023 13:37:04 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Una niña de tres años mata a su hermana de cuatro de un disparo en su casa de Texas]]></title>
+            <description><![CDATA[Cinco adultos, que eran todos miembros de la familia o amigos de la familia, estaban en la vivienda aunque ninguno supervisaba a las pequeñas&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/13/640ee12a21efa060498b458d.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/13/640ee12a21efa060498b458d.html</link>
+            <category><![CDATA[niño]]></category>
+            <category><![CDATA[internacional]]></category>
+            <category><![CDATA[Estados Unidos]]></category>
+            <media:description type="html"><![CDATA[Cinco adultos, que eran todos miembros de la familia o amigos de la familia, estaban en la vivienda aunque ninguno supervisaba a las pequeñas]]></media:description>
+            <media:title type="html"><![CDATA[EEUU]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16786967094767.jpg"
+                medium="image" width="1200" height="800" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16786967094767_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/13/640ee12a21efa060498b458d.html</guid>
+            <pubDate>Mon, 13 Mar 2023 09:40:43 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Al menos 22 muertos en un naufragio en la costa norte de Madagascar]]></title>
+            <description><![CDATA[La embarcación trataba de llegar de manera ilegal al archipiélago francés de Mayotte&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/13/640ed18521efa0755c8b4591.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[EFE]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/13/640ed18521efa0755c8b4591.html</link>
+            <category><![CDATA[internacional]]></category>
+            <category><![CDATA[África]]></category>
+            <category><![CDATA[inmigración]]></category>
+            <media:description type="html"><![CDATA[La embarcación trataba de llegar de manera ilegal al archipiélago francés de Mayotte]]></media:description>
+            <media:title type="html"><![CDATA[ÁFRICA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16786933533518.jpg"
+                medium="image" width="680" height="680" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16786933533518_150x0.jpg"
+                width="150" height="150" />
+            <guid>https://www.elmundo.es/internacional/2023/03/13/640ed18521efa0755c8b4591.html</guid>
+            <pubDate>Mon, 13 Mar 2023 08:44:17 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EEUU lanza una batería de medidas de emergencia para evitar que la crisis del Silicon Valley Bank se convierta en un pánico bancario]]></title>
+            <description><![CDATA[Por su parte, el banco HSBC, el mayor de Europa, anunció la compra de la filial en Reino Unido del Silicon Valley Bank por la simbólica cantidad de una libra&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/13/640e8601fc6c8346658b45b8.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[PABLO PARDO]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/13/640e8601fc6c8346658b45b8.html</link>
+            <category><![CDATA[Reserva Federal]]></category>
+            <category><![CDATA[Reino Unido]]></category>
+            <category><![CDATA[Estados Unidos]]></category>
+            <category><![CDATA[Asia]]></category>
+            <category><![CDATA[Europa]]></category>
+            <category><![CDATA[Dinero]]></category>
+            <category><![CDATA[WhatsApp - MX]]></category>
+            <category><![CDATA[mundial]]></category>
+            <category><![CDATA[35 Firmas Mundial]]></category>
+            <category><![CDATA[España]]></category>
+            <category><![CDATA[riesgo]]></category>
+            <category><![CDATA[banco]]></category>
+            <category><![CDATA[Televisión]]></category>
+            <category><![CDATA[Silicon Valley Bank]]></category>
+            <media:description type="html"><![CDATA[Por su parte, el banco HSBC, el mayor de Europa, anunció la compra de la filial en Reino Unido del Silicon Valley Bank por la simbólica cantidad de una libra]]></media:description>
+            <media:title type="html"><![CDATA[ESTADOS UNIDOS]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16786730813066.jpg"
+                medium="image" width="3072" height="2304" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/13/16786730813066_150x0.jpg"
+                width="150" height="112" />
+            <guid>https://www.elmundo.es/internacional/2023/03/13/640e8601fc6c8346658b45b8.html</guid>
+            <pubDate>Mon, 13 Mar 2023 08:29:38 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Todos los hombres de Xi Jinping]]></title>
+            <description><![CDATA[El presidente chino abre su tercer mandato rodeado de fieles escuderos que lo han acompañado durante su carrera&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/13/640df62521efa0a1278b459a.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[Lucas de la Cal]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/13/640df62521efa0a1278b459a.html</link>
+            <category><![CDATA[Xi Jinping]]></category>
+            <category><![CDATA[China]]></category>
+            <category><![CDATA[Asia]]></category>
+            <category><![CDATA[Artículos Lucas de la Cal]]></category>
+            <media:description type="html"><![CDATA[El presidente chino abre su tercer mandato rodeado de fieles escuderos que lo han acompañado durante su carrera]]></media:description>
+            <media:title type="html"><![CDATA[CHINA]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786367592454.jpg"
+                medium="image" width="3072" height="2048" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786367592454_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/13/640df62521efa0a1278b459a.html</guid>
+            <pubDate>Mon, 13 Mar 2023 07:43:32 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zury Ríos, la hija del dictador Ríos Montt que aspira a presidir Guatemala]]></title>
+            <description><![CDATA[Defensora de la pena de muerte y contraria al aborto, es la tercera vez que la política, de 55 años, se presenta a la presidencia&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/13/63d0fd9cfdddff4da78b45c6.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[ASIER VERA]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/13/63d0fd9cfdddff4da78b45c6.html</link>
+            <category><![CDATA[América]]></category>
+            <category><![CDATA[El Retrato]]></category>
+            <media:description type="html"><![CDATA[Defensora de la pena de muerte y contraria al aborto, es la tercera vez que la política, de 55 años, se presenta a la presidencia]]></media:description>
+            <media:title type="html"><![CDATA[EL RETRATO]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786341521233.jpg"
+                medium="image" width="1541" height="995" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786341521233_150x0.jpg"
+                width="150" height="96" />
+            <guid>https://www.elmundo.es/internacional/2023/03/13/63d0fd9cfdddff4da78b45c6.html</guid>
+            <pubDate>Mon, 13 Mar 2023 07:28:11 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La polémica 'tarjeta roja' a Lineker por comparar a los 'tories' con la Alemania nazi]]></title>
+            <description><![CDATA[La BBC deja fuera de antena al ex capitán de la Selección inglesa tras criticar la nueva Ley de Inmigración del Gobierno británico en Twitter&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/13/640dffcb21efa0252a8b45a6.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[Carlos Fresneda]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/13/640dffcb21efa0252a8b45a6.html</link>
+            <category><![CDATA[Reino Unido]]></category>
+            <category><![CDATA[Selección de Fútbol de Inglaterra]]></category>
+            <category><![CDATA[Europa]]></category>
+            <category><![CDATA[Artículos Carlos Fresneda]]></category>
+            <media:description type="html"><![CDATA[La BBC deja fuera de antena al ex capitán de la Selección inglesa tras criticar la nueva Ley de Inmigración del Gobierno británico en Twitter]]></media:description>
+            <media:title type="html"><![CDATA[PATIO GLOBAL]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786391556543.jpg"
+                medium="image" width="3072" height="2048" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786391556543_150x0.jpg"
+                width="150" height="100" />
+            <guid>https://www.elmundo.es/internacional/2023/03/13/640dffcb21efa0252a8b45a6.html</guid>
+            <pubDate>Mon, 13 Mar 2023 00:27:49 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El Papa inicia una segunda década más 'rompedora']]></title>
+            <description><![CDATA[Entre los objetivos de Francisco está revisar el celibato, moderar el Vaticano "machista" y viajar a Kiev y Moscú&nbsp;<a href="https://www.elmundo.es/internacional/2023/03/13/640e093d21efa093318b4588.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/internacional.xml" alt=""/>]]></description>
+            <dc:creator><![CDATA[Sebastián Fest]]></dc:creator>
+            <link>https://www.elmundo.es/internacional/2023/03/13/640e093d21efa093318b4588.html</link>
+            <category><![CDATA[Argentina]]></category>
+            <category><![CDATA[el Vaticano]]></category>
+            <category><![CDATA[Papa Francisco I]]></category>
+            <category><![CDATA[América]]></category>
+            <category><![CDATA[Europa]]></category>
+            <media:description type="html"><![CDATA[Entre los objetivos de Francisco está revisar el celibato, moderar el Vaticano "machista" y viajar a Kiev y Moscú]]></media:description>
+            <media:title type="html"><![CDATA[RELIGIÓN]]></media:title>
+            <media:content
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786456928267.jpg"
+                medium="image" width="3072" height="2327" />
+            <media:thumbnail
+                url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/12/16786456928267_150x0.jpg"
+                width="150" height="113" />
+            <guid>https://www.elmundo.es/internacional/2023/03/13/640e093d21efa093318b4588.html</guid>
+            <pubDate>Mon, 13 Mar 2023 00:27:48 +0100</pubDate>
+        </item>
+    </channel>
+</rss>
