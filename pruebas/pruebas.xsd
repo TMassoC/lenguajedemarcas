@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="salud">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="servicios">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="fisioterapia">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="precio">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="precio_sesion"
+                                                        type="xs:string" />
+                                                    <xs:element name="bono5" type="xs:string" />
+                                                    <xs:element name="bono10" type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="dias">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="dia" maxOccurs="unbounded"
+                                                        type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="horas">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="hora" maxOccurs="unbounded"
+                                                        type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="reserva" type="xs:string" />
+                                        <xs:element name="empleados">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="empleado"
+                                                        maxOccurs="unbounded" type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="podologia">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="precio">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="precio_sesion"
+                                                        type="xs:string" />
+                                                    <xs:element name="bono5" type="xs:string" />
+                                                    <xs:element name="bono10" type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="dias">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="dia" maxOccurs="unbounded"
+                                                        type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="horas">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="hora" maxOccurs="unbounded"
+                                                        type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="reserva" type="xs:string" />
+                                        <xs:element name="empleados">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="empleado" type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="psicologia">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="precio">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="precio_sesion"
+                                                        type="xs:string" />
+                                                    <xs:element name="bono5" type="xs:string" />
+                                                    <xs:element name="bono10" type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="dias">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="dia" maxOccurs="unbounded"
+                                                        type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="horas">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="hora" maxOccurs="unbounded"
+                                                        type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="reserva" type="xs:string" />
+                                        <xs:element name="empleados">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="empleado" type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="yoga">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="precio_mes" type="xs:string" />
+                                        <xs:element name="plazas" type="xs:string" />
+                                        <xs:element name="dias">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="dia" maxOccurs="unbounded"
+                                                        type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="horas">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="hora" maxOccurs="unbounded"
+                                                        type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="empleados">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="empleado"
+                                                        maxOccurs="unbounded" type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="pilates">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="precio" type="xs:string" />
+                                        <xs:element name="plazas" type="xs:string" />
+                                        <xs:element name="dias">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="dia" maxOccurs="unbounded"
+                                                        type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="horas">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="hora" maxOccurs="unbounded"
+                                                        type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="empleado" type="xs:string" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="meditacion">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="precio" type="xs:string" />
+                                        <xs:element name="plazas" type="xs:string" />
+                                        <xs:element name="dias">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="dia" maxOccurs="unbounded"
+                                                        type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="horas">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="hora" maxOccurs="unbounded"
+                                                        type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="empleados">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="empleado"
+                                                        maxOccurs="unbounded" type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
